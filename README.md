@@ -15,4 +15,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mdtajulislammt&theme=algolia&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&theme=algolia&layout=compact)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdtajulislammt&theme=react-dark&hide_title=true&hide_border=true&area=true)
+
