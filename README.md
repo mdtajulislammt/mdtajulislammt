@@ -28,3 +28,44 @@
 ![mdtajulislammt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
+## Projects
+
+### EverNest
+#### Live Link : https://eventnest-2e9c0.web.app/
+EverNest is a comprehensive real estate website designed to
+streamline property search and management.
+
+- Here you can sell and sell property as an agent
+- If the admin wants to make a user an agent, he can make a
+user again and again he can make a fraud
+- You can see new reviews and newly posted properties on
+the home page
+#### Technology : React.js, Node.js, MongoDB, Express, Jwt, Firebase, Tailwind,
+TanStack Query
+
+### Searching Jobs
+#### Live Link : https://searching-jobs.web.app/
+Searching Jobs is a job search platform that connects job
+seekers with potential employers
+
+- After login you can see the details of each job
+- You can post your job here if you want
+- You can delete your applied job later if you wante
+- You can update and delete your posting job as you wish
+- 
+#### Technology : React.js, Node.js, MongoDB, Express, Firebase, Tailwind.
+
+### Searching Jobs
+#### Live Link : https://limupa-dfa4f.web.app/
+** My website is Technology and Electronics About this website From this website you will find many types of Technology and Electronics items You can buy and sell these products etc...First visiting the website has an attractive homepage, this homepage has some popular brands and you will find items of each category. **
+
+- There are six popular brands, each of which has its own brand of products
+- By clicking on any one of those bands, you will get the items or products of that brand and by clicking on any of the items, you will get the details.
+- But before you can see the details you need to sign in or sign up with your email and password or you can login with google
+- If you are not signed in or signed up, you will not be able to view details and update, add to cards and add products.
+- If you click on the details of the product, you can see the details of that product and you can add this product if you want
+  
+#### Technology : React.js, Node.js, MongoDB, Express, Firebase, Tailwind.
+
+
+
