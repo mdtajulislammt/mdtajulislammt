@@ -25,6 +25,10 @@
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdtajulislammt&theme=algolia&hide_border=true" alt="mdtajulislammt" />
  </p>
 
+ ![mdtajulislammt's Stats](https://github-readme-stats.vercel.app/api?username=mdtajulislammt&theme=merko&show_icons=true&hide_border=true&count_private=true)
+ 
+![mdtajulislammt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mdtajulislammt&theme=algolia&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&theme=algolia&layout=compact)
 
