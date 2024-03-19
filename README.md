@@ -30,6 +30,22 @@
 
 ## Projects
 
+### NexTrade - Team Project
+#### Live Link : https://nextrade-front-end.vercel.app/
+NexTrade: go-to online platform for secure and efficient trading. Buy and
+sell products with ease, supported by user-friendly features. Elevate your
+trading experience with us.
+
+####Features created by me:
+
+Other contributions: Home page section, animation, UI design, static page
+Portfolio page with dynamic data in Dashboard
+Notifications in trader and admin page
+Admin Dashboard page with dynamic data
+#####Other contributions: Home page section, animation, UI design, static page
+####Next Js, Node Js, Mongo DB, Express Js, Tailwind CSS, Material UI,
+Firebase Authentication, WebSocket, Framer motion
+
 ### EverNest
 #### Live Link : https://eventnest-2e9c0.web.app/
 EverNest is a comprehensive real estate website designed to
