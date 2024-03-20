@@ -45,8 +45,7 @@ trading experience with us.
 - 
 ##### Other contributions: Home page section, animation, UI design, static page
 
-#### Next Js, Node Js, Mongo DB, Express Js, Tailwind CSS, Material UI,
-Firebase Authentication, WebSocket, Framer motion
+#### Technology : Next Js, Node Js, Mongo DB, Express Js, Tailwind CSS, Material UI,Firebase Authentication, WebSocket, Framer motion
 
 ### EverNest
 #### Live Link : https://eventnest-2e9c0.web.app/
