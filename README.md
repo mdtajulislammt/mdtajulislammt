@@ -29,7 +29,7 @@
 
 ---
   <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdtajulislammt&theme=vue-dark&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdtajulislammt&theme=vue-dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 
 ## 🛠️ Tech Stack (A–Z)
