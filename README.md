@@ -11,6 +11,12 @@
 
 ---
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&layout=compact&theme=tokyonight&hide_border=true" />
+  <br />
+
+---
+
 ## 👋 About Me
 
 ### Hi, I’m **MD Tajul Islam** — a passionate **Full Stack Developer** from Bangladesh
@@ -20,6 +26,12 @@
 - 🧠 Exploring **AI Agents** and **Machine Learning with TensorFlow.js**
 - 🎯 Focused on **clean architecture**, **scalable systems**, and great **UX**
 - ⚙️ Passionate about backend performance (Redis, Docker, Prisma, etc.)
+
+---
+
+  <!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtajulislammt&theme=tokyonight&hide_border=true" />
+ <br />
 
 ---
 
@@ -80,28 +92,13 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=mdtajulislammt&theme=tokyonight&hide_border=true" />
-  <br />
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mdtajulislammt&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <br />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&layout=compact&theme=tokyonight&hide_border=true" />
-  <br />
 
-  <!-- GitHub Contribution Graph (dynamic SVG) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtajulislammt&theme=tokyo-night&hide_border=true" />
-  <br />
-
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mdtajulislammt&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" />
-</p>
 
 
 --- 
@@ -167,9 +164,18 @@ A robust POS system for managing inventory, sales, accounts, and supplier data.
 
 ---
 
+  <!-- GitHub Contribution Graph (dynamic SVG) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtajulislammt&theme=tokyo-night&hide_border=true" />
+  <br />
+ 
+---
+
 ## 🤝 Let’s Connect
 
 <p align="center">
   <a href="mailto:mdtajulislam50599@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mdtajulislammt/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
+
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mdtajulislammt&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" />
