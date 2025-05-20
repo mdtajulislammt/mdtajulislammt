@@ -28,12 +28,9 @@
 - ⚙️ Passionate about backend performance (Redis, Docker, Prisma, etc.)
 
 ---
-
   <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtajulislammt&theme=tokyonight&hide_border=true" />
- <br />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdtajulislammt&theme=vue-dark&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 
----
 
 ## 🛠️ Tech Stack (A–Z)
 
@@ -100,8 +97,6 @@
 
 
 
-
---- 
 
 ## 🔥 Highlight Projects
 
