@@ -6,111 +6,102 @@
 
 ---
 
-## 🚀 About Me
+## 👋 Hello, I'm MD Tajul Islam
 
-### Hi there! I'm **MD Tajul Islam**, a passionate **MERN Stack Developer** 🚀
-
-- 💻 I specialize in crafting **robust** and **scalable** web applications with clean code and seamless user experiences.
-- 🎯 Currently exploring **new technologies** to enhance my skills in the dynamic world of web development.
-- 📌 Looking for exciting collaborations and open-source contributions.
-- ⚡ **Always available for new opportunities.**
-
-### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mdtajulislammt/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=react)](https://your-portfolio.com)  
+A passionate **Full Stack Developer** with 2+ years of hands-on industry experience. I specialize in building **scalable SaaS products**, intuitive dashboards, and **smart web apps** using **cutting-edge technologies** like React, Next.js, Prisma, TensorFlow.js, and Docker.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 My Work Highlights
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
+I've worked on real-world, industry-level systems like:
 
----
+- 🛒 **SuperShop POS** – Inventory & sales management for retail
+- 💊 **Pharmacy POS** – Complete pharmacy operations with GRN, TPN, and more
+- 📄 **Invoice Management System** – Track and manage professional invoices
+- 🏫 **School Management Software** – Attendance, grading, admin panel
+- 🍽 **Restaurant Management System** – POS with table management & orders
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdtajulislammt&theme=merko)](https://git.io/streak-stats)
-
-![mdtajulislammt's Stats](https://github-readme-stats.vercel.app/api?username=mdtajulislammt&theme=merko&show_icons=true&hide_border=true&count_private=true)
-
-![mdtajulislammt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&theme=merko&show_icons=true&hide_border=true&layout=compact)
+I'm also experimenting with:
+- 🧠 **AI Agents & Model-Based Logic** using **TensorFlow.js**
+- 🌐 **Interactive 3D Web Apps** with **Three.js**
 
 ---
 
-## 🚀 Projects
+## 🧰 Tech Stack & Tools
 
-### 📌 NexTrade - Team Project
-**Live Link:** [NexTrade](https://nextrade-front-end.vercel.app/)  
-NexTrade is a go-to online platform for secure and efficient trading. Buy and sell products with ease, supported by user-friendly features. Elevate your trading experience with us.
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)  
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css)  
+![Shadcn](https://img.shields.io/badge/-Shadcn_UI-0EA5E9?logo=react)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js)
 
-#### 🔥 Features I Contributed:
-- Home page section, animation, UI design, static page
-- Portfolio page with dynamic data in Dashboard
-- Notifications for trader and admin pages
-- Admin Dashboard with dynamic data
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 
-#### 🔧 Technologies Used:
-Next.js, Node.js, MongoDB, Express.js, Tailwind CSS, Material UI, Firebase Authentication, WebSocket, Framer Motion
+**Database & Auth:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)  
+![Persistent DB](https://img.shields.io/badge/-Persistent_DB-blue)
 
----
-
-### 📌 EverNest - Real Estate Platform
-**Live Link:** [EverNest](https://eventnest-2e9c0.web.app/)  
-EverNest is a comprehensive real estate website designed to streamline property search and management.
-
-#### 🔥 Key Features:
-- Sell and buy property as an agent
-- Admin can assign user roles (agent, fraud detection)
-- Real-time property updates and reviews
-
-#### 🔧 Technologies Used:
-React.js, Node.js, MongoDB, Express.js, JWT, Firebase, Tailwind, TanStack Query
+**Other Tools:**  
+![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-FF6F00?logo=tensorflow)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)  
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js)
 
 ---
 
-### 📌 Searching Jobs - Job Portal
-**Live Link:** [Searching Jobs](https://searching-jobs.web.app/)  
-A job search platform connecting job seekers with potential employers.
+## 📌 Featured Projects
 
-#### 🔥 Key Features:
-- View job details after login
-- Post new job listings
-- Delete/update posted jobs and applications
+### 🔹 Supershop POS (Retail SaaS)
+Complete retail system with:
+- Dynamic product & inventory management
+- User roles, suppliers, sales & reporting
+- Multi-branch support & real-time sync
 
-#### 🔧 Technologies Used:
-React.js, Node.js, MongoDB, Express.js, Firebase, Tailwind
+### 🔹 Pharmacy POS
+- Advanced pharmacy operations: PO, GRN, RTV, TPN
+- Customer & Supplier tracking, Account heads
+- SMS, Email, Print, Import/Export functions
 
----
+### 🔹 School Management Software
+- Student info, grading, class schedules
+- Teacher dashboards and admin panel
+- Role-based access control
 
-### 📌 Limupa - Tech & Electronics Store
-**Live Link:** [Limupa](https://limupa-dfa4f.web.app/)  
-A platform to buy and sell technology and electronics products.
-
-#### 🔥 Key Features:
-- Browse products by brand and category
-- Authentication for secure transactions
-- Add to cart and manage orders
-
-#### 🔧 Technologies Used:
-React.js, Node.js, MongoDB, Express.js, Firebase, Tailwind
+### 🔹 Invoice Management System
+- Client & invoice generation
+- Tax calculations, PDF export
+- Status tracking and history
 
 ---
 
-## 🎯 What’s Next?
-- 🔍 Exploring **AI & Machine Learning** integration in web applications
-- 🛠️ Learning **GraphQL** and **Docker** for more scalable apps
-- 🤝 Open to **collaborations** and **freelance projects**
+## 🔭 Currently Working On
 
-### 📢 Want to collaborate? Let’s discuss!
+- 🤖 Building **AI-powered features** using **TensorFlow.js**
+- 📊 Studying **DSA & system design** to improve performance-based coding
+- 🧠 Experimenting with **model-based agents** for intelligent automation
+- ⚒️ Enhancing code tracking through GitHub activity
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdtajulislammt&theme=merko)](https://git.io/streak-stats)  
+![Stats](https://github-readme-stats.vercel.app/api?username=mdtajulislammt&theme=merko&show_icons=true&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajulislammt&theme=merko&layout=compact)
+
+---
+
+## 🌍 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mdtajulislammt/)  
 [![Email](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:mdtajulislam50599@gmail.com)
+
+> ✨ "Building scalable software, one line of code at a time."
 
