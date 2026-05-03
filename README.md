@@ -79,7 +79,7 @@ Experimenting with AI Agents and TensorFlow.js to automate workflow efficiency a
 
 ---
 
-## 🎯 Technical Roadmap Running<img width="2880" height="1440" alt="my_github_image" src="https://github.com/user-attachments/assets/2e215ef8-9ef7-40cb-9a11-a7cddd658236" />
+## 🎯 Technical Roadmap Running
 
 
 - 📦 **Microservices & Messaging:** Deep diving into Kafka and RabbitMQ for distributed event-driven systems.
