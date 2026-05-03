@@ -1,4 +1,5 @@
-<img src="https://github.com/mdtajulislammt/mdtajulislammt/blob/main/Add%20a%20heading%20(1).png" alt="Tajul's Banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/797e6d83-e6b6-4f6a-959c-c639bed86046" alt="Tajul's Banner" width="100%" />
+
 
 <p align="center">
   <a href="mailto:mdtajulislam50599@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -77,7 +78,8 @@ Experimenting with AI Agents and TensorFlow.js to automate workflow efficiency a
 
 ---
 
-## 🎯 Technical Roadmap 2026
+## 🎯 Technical Roadmap Running<img width="2880" height="1440" alt="my_github_image" src="https://github.com/user-attachments/assets/2e215ef8-9ef7-40cb-9a11-a7cddd658236" />
+
 
 - 📦 **Microservices & Messaging:** Deep diving into Kafka and RabbitMQ for distributed event-driven systems.
 - ⚡ **Performance:** Migrating critical services to **Go** for high-throughput concurrency.
